@@ -1,3 +1,5 @@
+FROM ubuntu:20.04
+
 # Jenkins version
 ENV JENKINS_VERSION 2.222.3
 
